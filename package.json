@@ -2,7 +2,7 @@
   "name": "mercury",
   "displayName": "Mercury",
   "description": "VS Code theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "yarastqt",
   "author": "Tropin Eugeniy <yarastqt@gmail.com>",
   "preview": true,
@@ -34,5 +34,9 @@
         "path": "./themes/mercury-color-theme.json"
       }
     ]
+  },
+  "galleryBanner": {
+    "color": "#2c2c2c",
+    "theme": "dark"
   }
 }
