@@ -1,0 +1,38 @@
+{
+  "name": "mercury",
+  "displayName": "Mercury",
+  "description": "VS Code theme",
+  "version": "1.0.0",
+  "publisher": "yarastqt",
+  "author": "Tropin Eugeniy <yarastqt@gmail.com>",
+  "preview": true,
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.24.0"
+  },
+  "keywords": [
+    "theme",
+    "minimal"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarastqt/mercury.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yarastqt/mercury/issues"
+  },
+  "homepage": "https://github.com/yarastqt/mercury#readme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mercury",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mercury-color-theme.json"
+      }
+    ]
+  }
+}
